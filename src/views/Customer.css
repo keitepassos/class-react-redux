@@ -1,0 +1,9 @@
+.bg-customer {
+  background-color: red;
+  border-style: solid;
+  border-radius: 20%;  
+  height: 200px;
+  width: 250px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
